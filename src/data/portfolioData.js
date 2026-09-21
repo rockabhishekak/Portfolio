@@ -6,7 +6,7 @@ export const personalInfo = {
   status: "Available for SDE / Full-Stack Roles",
   location: "India",
   stats: [
-    { label: "LeetCode Solved", value: "100+", detail: "Algorithms & Data Structures" },
+    { label: "LeetCode Solved", value: "150+", detail: "Algorithms & Data Structures" },
     { label: "Academic CGPA", value: "8.38", detail: "B.Tech Computer Science & Eng." },
     { label: "Energy Optimization", value: "19.86%", detail: "CPU Scheduler DVFS Benchmark" },
     { label: "Proctored Certifications", value: "5+", detail: "Infosys, Tech Veda, Coding Tantra" },
